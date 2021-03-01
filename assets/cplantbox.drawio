@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-01T19:35:21.786Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="NRF8E9Zp8Hr0E_lpjrin" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-01T19:37:30.304Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="6H1_UK5TxfzepMBGeh5Y" version="14.4.3" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="826" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -60,6 +60,42 @@
         </mxCell>
         <mxCell id="aSYHZ8J5is49GkjM08Yo-22" value="Daniel, Thomas, Mona" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=7;fontColor=#B3B3B3;" vertex="1" parent="1">
           <mxGeometry x="390" y="480" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-23" value="Mutliscale" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#999999;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="100" y="580" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-24" value="3D exudation" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#999999;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="160" y="650" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-25" value="Solutes in roots" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#999999;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="335" y="650" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-26" value="Root growth" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#999999;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-27" value="Soil chemistry" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#999999;fontSize=9;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="720" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-28" value="Daniel, Thomas, Mona" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=7;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="100" y="610" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-29" value="Magdalena" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=7;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-30" value="???" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontSize=7;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-31" value="Daniel, Deepanshu" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=7;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="335" y="680" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-32" value="Daniel, Ullah" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=7;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="390" y="610" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-33" value="Rhizosphere" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;strokeColor=#999999;fontSize=9;" vertex="1" parent="1">
+          <mxGeometry x="300" y="720" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aSYHZ8J5is49GkjM08Yo-34" value="Magdalena, Tobias, Daniel, Ahmet, Deepanshu" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;dashed=1;fontSize=7;fontColor=#B3B3B3;" vertex="1" parent="1">
+          <mxGeometry x="300" y="750" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
