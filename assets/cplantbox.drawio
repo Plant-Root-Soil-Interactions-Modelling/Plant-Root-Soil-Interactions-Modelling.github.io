@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T10:12:44.107Z" agent="5.0 (Windows)" etag="dcN7wOTliyGPZnCMLhti" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-05T10:13:11.112Z" agent="5.0 (Windows)" etag="kAI88FeV27gLhLLwv3v0" version="14.4.4" type="github">
   <diagram name="Page-1" id="90a13364-a465-7bf4-72fc-28e22215d7a0">
     <mxGraphModel dx="1117" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -226,8 +226,8 @@
         <mxCell id="aSYHZ8J5is49GkjM08Yo-76" value="Tobias, Magdalena" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="910" y="692" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Aonq5_ewrlIDJZ2xmqO3-1" value="HPC/GPU &lt;br style=&quot;font-size: 14px;&quot;&gt;computing" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontSize=14;dashed=1;strokeColor=#FF9999;" parent="1" vertex="1">
-          <mxGeometry x="510" y="735" width="110" height="30" as="geometry" />
+        <mxCell id="Aonq5_ewrlIDJZ2xmqO3-1" value="HPC/GPU &lt;br style=&quot;font-size: 14px&quot;&gt;suitability" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#FFFFFF;fontSize=14;dashed=1;strokeColor=#FF9999;" parent="1" vertex="1">
+          <mxGeometry x="510" y="730" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Aonq5_ewrlIDJZ2xmqO3-2" value="Daniel&amp;amp;Daniel" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=10;fontColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="538" y="765" width="70" height="20" as="geometry" />
